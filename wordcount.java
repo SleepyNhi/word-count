@@ -1,5 +1,5 @@
 package wordcount;
-/*Nhi Tuong CSC 3410 MW Assignment #2
+/*Nhi Tuong CSC 
  * 
  * Purpose: To gain experiences with string objects and algorithms manipulations.
  * 			To read the user's text file and scan the amount of words and print it. To also
